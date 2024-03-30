@@ -1,0 +1,5 @@
+#myForm {
+    width: 300px; /* Adjust the width as needed */
+    float: right; /* Position the form to the right side */
+    margin-left: 20px; /* Add some space between the form and other content */
+}
